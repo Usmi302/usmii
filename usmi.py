@@ -1,1 +1,1 @@
-import legend1
+import legend
