@@ -1,2 +1,1 @@
-from usmi64 import approval
-approval()
+from usmi64
